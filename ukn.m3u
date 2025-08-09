@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/DUY5WXf.png" group-title="Undefined",Sutherland Sharks VS Sydney Fc Youth (720p)
+https://hls.baueahh10.com/live/sd-6MtN8hxAC1mi3G9mBV.m3u8?txSecret=86d8d715ec64c9bebe2ea658a6f7f149&txTime=68983F35
+
+#EXTM3U
 #EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/DUY5WXf.png" group-title="Undefined",AKTV (720p)
 https://e.siar.us/live/aktv.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="General;Undefined",ANTV
